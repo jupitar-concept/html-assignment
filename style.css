@@ -1,0 +1,50 @@
+body {
+  background-color: #1aadda;
+  font-family: Arial, sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+#main-header {
+  background-color: #1d0760;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Typography */
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #1e3a8a;
+}
+
+/* Image Styling */
+img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+/* Link Styling */
+a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Hover Effect */
+a:hover {
+  color: red;
+}
